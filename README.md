@@ -16,3 +16,6 @@
 #### regular ten-sided (Temporarily unavailable)
 #### regular eleven-sided (Temporarily unavailable)
 #### regular twelve-sided (Temporarily unavailable)
+## Code rules
+### Function code
+<p>Use the <code>printf()</code> function.</p>
